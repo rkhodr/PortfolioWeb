@@ -82,7 +82,7 @@ var typed = new Typed(".typing-text", {
 async function fetchData(type = "skills") {
     let response
     type === "skills" ?
-        response = await fetch("skills.json")
+        response = await fetch("./skills.json")
         :
         response = await fetch("./projects/projects.json")
     const data = await response.json();
@@ -148,6 +148,8 @@ function showProjects(projects) {
 
 fetchData().then(data => {
     showSkills(data);
+}).catch(error => {
+    console.error("Error loading skills:", error);
 });
 
 fetchData("projects").then(data => {

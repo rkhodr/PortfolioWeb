@@ -29,11 +29,11 @@
     },
      {
         "name": "Databricks",
-        "icon": "https://www.pngaaa.com/detail/5661486"
+        "icon": "https://image.pngaaa.com/486/5661486-middle.png"
     },
      {
         "name": "XML",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+        "icon": "https://img.icons8.com/?size=100&id=10238&format=png&color=000000"
     },
      {
         "name": "ReactJS",
@@ -65,6 +65,6 @@
     }, 
      {
         "name": "Linux",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+        "icon": "https://img.icons8.com/?size=100&id=38796&format=png&color=000000"
     }
 ]

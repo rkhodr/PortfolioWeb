@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
-<a href="https://rafikkhodr.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://rkhodr.github.io/PortfolioWeb/" target="_blank">**Visit Now** 🚀</a>
 
 
 <h2>📬 Contact</h2>

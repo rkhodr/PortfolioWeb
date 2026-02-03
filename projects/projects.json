@@ -5,6 +5,7 @@
     "image": "notystackandroid",
     "category": "android",
     "links": {
+      "view": "https://github.com/rkhodr/FitnessProject"
       "code": "https://github.com/rkhodr/FitnessProject"
     }
   },
@@ -14,6 +15,7 @@
     "image": "sppuprepandroid",
     "category": "android",
     "links": {
+      "view": "https://github.com/rkhodr/FitnessProject",
       "code": "https://github.com/rkhodr/CivicMatch"
     }
   }, 
@@ -23,10 +25,12 @@
     "image": "newsboxandroid",
     "category": "android",
     "links": {
+      "view": "https://github.com/rkhodr/FitnessProject",
       "code": "https://github.com/rkhodr/JavaProjects"
     }
   }
 ]
+
 
 
 

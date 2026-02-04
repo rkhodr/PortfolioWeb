@@ -2,20 +2,20 @@
   {
     "name": "Spottr",
     "desc": "Spottr is a modern fitness application I developed that combines AI-powered coaching with comprehensive progress tracking. Built using React, TypeScript, and the Anthropic Claude API, the app provides personalized workout routines and nutrition guidance through an intuitive chat interface. As an avid gym-goer (6 days/week), I recognized the need for a unified platform that brings together workout planning, progress visualization, and nutrition tracking. The application features real-time data visualization using Chart.js for tracking lifts, weight changes, and nutritional intake, all wrapped in a clean, responsive UI built with Tailwind CSS. What sets Spottr apart is its intelligent integration of AI coaching with data-driven progress monitoring, creating a truly personalized fitness experience.",
-    "image": "instagrammern",
+    "image": "spottrpic",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/rkhodr/Fitness Project"
+      "view": "https://github.com/rkhodr/FitnessProject",
+      "code": "https://github.com/rkhodr/FitnessProject"
     }
   },
   {
     "name": "Civic Match",
     "desc": "I developed CivicMatch, which is a full-stack political engagement platform using React and Node.js that aimed to connect Boston-area constituents with their representatives in a more interactive way. Realizing how low voting numbers are across the country, I thought of a way to get civilians to vote more by matching them with politicals that align with their views. At the core of the platform is an AI-powered matching algorithm that analyzes user responses from a dynamic questionnaire and delivers personalized recommendations for which local politicians align most closely with their views. On the frontend, I built a responsive interface that communicates seamlessly with backend APIs, making the experience intuitive and engaging for users. The result was a tool that not only highlighted the potential of data-driven political engagement, but also demonstrated how thoughtful design and technology can simplify complex civic interactions.",
-    "image": "flipkartmern",
+    "image": "civicpic",
     "category": "mern",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
+      "view": "https://github.com/rkhodr/CivicMatch",
       "code": "https://github.com/rkhodr/CivicMatch"
     }
   },
@@ -25,11 +25,12 @@
     "image": "resumegen",
     "category": "mern",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
+      "view": "https://github.com/rkhodr/JavaProjects",
       "code": "https://github.com/rkhodr/JavaProjects"
     }
   }
 ]
+
 
 
 

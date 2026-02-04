@@ -20,7 +20,7 @@
     }
   },
   {
-    "name": "Discrete Mathematical Algorithms Calculator",
+    "name": "Discrete Math Algorithms Calculator",
     "desc": "I engineered a Java-based application to solve complex discrete mathematics problems. With a focus on combinatorics and probability theory, I utilized complex algorithms and advanced mathematical concepts.",
     "image": "resumegen",
     "category": "mern",
@@ -30,6 +30,7 @@
     }
   }
 ]
+
 
 
 

@@ -1,7 +1,7 @@
 [
   {
     "name": "Spottr",
-    "desc": "A fitness application that combines AI-powered coaching with progress tracking. Built using the Anthropic Claude API, the app provides personalized workouts and nutrition guidance.",
+    "desc": "A fitness app that combines AI-powered coaching with progress tracking. Built using Anthropic Claude API, the app provides personalized workouts and nutrition guidance.",
     "image": "spottrpic",
     "category": "mern",
     "links": {
@@ -30,6 +30,7 @@
     }
   }
 ]
+
 
 
 

@@ -22,7 +22,7 @@
   {
     "name": "Discrete Math Algorithms Calculator",
     "desc": "A Java-based application to solve complex discrete mathematics problems. Combinatorics, probability theory, and other complex algorithms were utilized.",
-    "image": "resumegen",
+    "image": "discretepic",
     "category": "mern",
     "links": {
       "view": "https://github.com/rkhodr/JavaProjects",
@@ -30,6 +30,7 @@
     }
   }
 ]
+
 
 
 

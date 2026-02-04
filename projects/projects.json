@@ -1,7 +1,7 @@
 [
   {
     "name": "Spottr",
-    "desc": "Spottr is a modern fitness application I developed that combines AI-powered coaching with comprehensive progress tracking. Built with the Anthropic Claude API, the app provides personalized workout routines and nutrition guidance through an intuitive chat interface",
+    "desc": "A fitness application that combines AI-powered coaching with progress tracking. Built using the Anthropic Claude API, the app provides personalized workouts and nutrition guidance.",
     "image": "spottrpic",
     "category": "mern",
     "links": {
@@ -11,7 +11,7 @@
   },
   {
     "name": "Civic Match",
-    "desc": "CivicMatch is a full-stack political engagement platform I built using React and Node.js that aimed to connect Boston-area constituents with their representatives in a more interactive way.",
+    "desc": "A full-stack political engagement platform built that aims to connect Boston-area constituents with their representatives in a more citizen-friendly way.",
     "image": "civicpic",
     "category": "mern",
     "links": {
@@ -21,7 +21,7 @@
   },
   {
     "name": "Discrete Math Algorithms Calculator",
-    "desc": "I engineered a Java-based application to solve complex discrete mathematics problems. With a focus on combinatorics and probability theory, I utilized complex algorithms and advanced mathematical concepts.",
+    "desc": "A Java-based application to solve complex discrete mathematics problems. Combinatorics, probability theory, and other complex algorithms were utilized.",
     "image": "resumegen",
     "category": "mern",
     "links": {
@@ -30,6 +30,7 @@
     }
   }
 ]
+
 
 
 

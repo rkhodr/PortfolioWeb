@@ -1,7 +1,7 @@
 [
  {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "name": "Spottr",
+    "desc": "Spottr is a modern fitness application I developed that combines AI-powered coaching with comprehensive progress tracking. Built using React, TypeScript, and the Anthropic Claude API, the app provides personalized workout routines and nutrition guidance through an intuitive chat interface. As an avid gym-goer (6 days/week), I recognized the need for a unified platform that brings together workout planning, progress visualization, and nutrition tracking. The application features real-time data visualization using Chart.js for tracking lifts, weight changes, and nutritional intake, all wrapped in a clean, responsive UI built with Tailwind CSS. What sets Spottr apart is its intelligent integration of AI coaching with data-driven progress monitoring, creating a truly personalized fitness experience.",
     "image": "notystackandroid",
     "category": "android",
     "links": {
@@ -10,8 +10,8 @@
     }
   },
   {
-    "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "name": "Civic Match",
+    "desc": "I developed CivicMatch, which is a full-stack political engagement platform using React and Node.js that aimed to connect Boston-area constituents with their representatives in a more interactive way. Realizing how low voting numbers are across the country, I thought of a way to get civilians to vote more by matching them with politicals that align with their views. At the core of the platform is an AI-powered matching algorithm that analyzes user responses from a dynamic questionnaire and delivers personalized recommendations for which local politicians align most closely with their views. On the frontend, I built a responsive interface that communicates seamlessly with backend APIs, making the experience intuitive and engaging for users. The result was a tool that not only highlighted the potential of data-driven political engagement, but also demonstrated how thoughtful design and technology can simplify complex civic interactions.",
     "image": "sppuprepandroid",
     "category": "android",
     "links": {
@@ -20,8 +20,8 @@
     }
   },
   {
-    "name": "NewsBox Android",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "name": "Discrete Mathematical Algorithms Calculator",
+    "desc": "I engineered a Java-based application to solve complex discrete mathematics problems, with a focus on combinatorics and probability theory. I implemented advanced algorithms, including dynamic programming techniques and Stirling number computations, to optimize performance and accuracy. Additionally, I designed and developed an intuitive user interface that streamlined input processes and enhanced the overall user experience.",
     "image": "newsboxandroid",
     "category": "android",
     "links": {
@@ -340,6 +340,7 @@
     }
   }
 ]
+
 
 
 

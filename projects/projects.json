@@ -2,7 +2,7 @@
   {
     "name": "Spottr",
     "desc": "A fitness app that combines AI-powered coaching with progress tracking. Built using Anthropic Claude API, the app provides personalized workouts and nutrition guidance.",
-    "image": "spottrpic",
+    "image": "spottrpic.png",
     "category": "mern",
     "links": {
       "view": "https://github.com/rkhodr/FitnessProject",
@@ -12,7 +12,7 @@
   {
     "name": "Civic Match",
     "desc": "A full-stack political engagement platform built that aims to connect Boston-area constituents with their representatives in a more citizen-friendly way.",
-    "image": "civicpic",
+    "image": "civicpic.png",
     "category": "mern",
     "links": {
       "view": "https://github.com/rkhodr/CivicMatch",
@@ -22,7 +22,7 @@
   {
     "name": "Discrete Math Algorithms Calculator",
     "desc": "A Java-based application to solve complex discrete mathematics problems. Combinatorics, probability theory, and other complex algorithms were utilized.",
-    "image": "discretepic",
+    "image": "discretepic.jpg",
     "category": "mern",
     "links": {
       "view": "https://github.com/rkhodr/JavaProjects",
@@ -30,6 +30,7 @@
     }
   }
 ]
+
 
 
 

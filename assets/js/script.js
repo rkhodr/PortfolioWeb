@@ -60,7 +60,7 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Rafik Khodr";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            $("#favicon").attr("href", "assets/images/1756227375111.jpg");
         }
         else {
             document.title = "Come Back To Portfolio";
@@ -104,70 +104,46 @@ function showSkills(skills) {
     skillsContainer.innerHTML = skillHTML;
 }
 
-// Simple projects array - edit your projects here directly
-const myProjects = [
-    {
-        name: "Spottr",
-        desc: "A fitness application that combines AI-powered coaching with progress tracking. Built using React, TypeScript, and the Anthropic Claude API.",
-        image: "/assets/images/projects/spottrpic.png",
-        view: "https://github.com/rkhodr/FitnessProject",
-        code: "https://github.com/rkhodr/FitnessProject"
-    },
-    {
-        name: "Civic Match",
-        desc: "A full-stack political engagement platform that connects Boston-area constituents with their representatives in a citizen-friendly way.",
-        image: "/assets/images/projects/civicpic.png",
-        view: "https://github.com/rkhodr/CivicMatch",
-        code: "https://github.com/rkhodr/CivicMatch"
-    },
-    {
-        name: "Discrete Math Calculator",
-        desc: "A Java-based application to solve complex discrete mathematics problems including combinatorics and probability theory.",
-        image: "/assets/images/projects/discretepic.jpg",
-        view: "https://github.com/rkhodr/JavaProjects",
-        code: "https://github.com/rkhodr/JavaProjects"
-    }
-];
-
-function showProjects() {
+function showProjects(projects) {
     let projectsContainer = document.querySelector("#work .box-container");
     let projectHTML = "";
-    
-    myProjects.forEach(project => {
+    projects.slice(0, 10).filter(project => project.category != "android").forEach(project => {
         projectHTML += `
         <div class="box tilt">
-            <img draggable="false" src="${project.image}" alt="${project.name}" 
-                 onerror="this.src='${project.image}'" />
-            <div class="content">
-                <div class="tag">
-                    <h3>${project.name}</h3>
-                </div>
-                <div class="desc">
-                    <p>${project.desc}</p>
-                    <div class="btns">
-                        <a href="${project.view}" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
-                        <a href="${project.code}" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>`
+      <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="project" />
+      <div class="content">
+        <div class="tag">
+        <h3>${project.name}</h3>
+        </div>
+        <div class="desc">
+          <p>${project.desc}</p>
+          <div class="btns">
+            <a href="${project.links.view}" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
+            <a href="${project.links.code}" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>`
     });
-    
     projectsContainer.innerHTML = projectHTML;
 
-    // tilt js effect
+    // <!-- tilt js effect starts -->
     VanillaTilt.init(document.querySelectorAll(".tilt"), {
         max: 15,
     });
+    // <!-- tilt js effect ends -->
 
-    // scroll reveal animation
+    /* ===== SCROLL REVEAL ANIMATION ===== */
     const srtop = ScrollReveal({
         origin: 'top',
         distance: '80px',
         duration: 1000,
         reset: true
     });
+
+    /* SCROLL PROJECTS */
     srtop.reveal('.work .box', { interval: 200 });
+
 }
 
 fetchData().then(data => {
@@ -176,8 +152,9 @@ fetchData().then(data => {
     console.error("Error loading skills:", error);
 });
 
-// Load projects directly (no JSON fetch needed)
-showProjects();
+fetchData("projects").then(data => {
+    showProjects(data);
+});
 
 // <!-- tilt js effect starts -->
 VanillaTilt.init(document.querySelectorAll(".tilt"), {

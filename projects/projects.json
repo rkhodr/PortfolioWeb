@@ -12,7 +12,7 @@
   {
     "name": "Civic Match",
     "desc": "A full-stack political engagement platform built that aims to connect Boston-area constituents with their representatives in a more citizen-friendly way.",
-    "image": "flipkartmern",
+    "image": "civicpic",
     "category": "mern",
     "links": {
       "view": "https://github.com/rkhodr/CivicMatch",
@@ -30,6 +30,7 @@
     }
   }
 ]
+
 
 
 

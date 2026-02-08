@@ -1,7 +1,7 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "name": "Spottr",
+    "desc": "A fitness app that combines AI-powered coaching with progress tracking. Built using Anthropic Claude API, the app provides personalized workouts and nutrition guidance.",
     "image": "spottrpic",
     "category": "android",
     "links": {
@@ -10,8 +10,8 @@
     }
   },
   {
-    "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "name": "Civic Match",
+    "desc": "A full-stack political engagement platform built that aims to connect Boston-area constituents with their representatives in a more citizen-friendly way.",
     "image": "civicpic",
     "category": "android",
     "links": {
@@ -20,8 +20,8 @@
     }
   },
   {
-    "name": "NewsBox Android",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "name": "Discrete Math Algorithms Calculator",
+    "desc": "A Java-based application to solve complex discrete mathematics problems. Combinatorics, probability theory, and other complex algorithms were utilized.",
     "image": "weatherlyandroid",
     "category": "android",
     "links": {
@@ -340,6 +340,7 @@
     }
   }
 ]
+
 
 
 

@@ -40,8 +40,8 @@
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "name": "Spottr",
+    "desc": "A fitness app that combines AI-powered coaching with progress tracking. Built using Anthropic Claude API, the app provides personalized workouts and nutrition guidance.",
     "image": "instagrammern",
     "category": "mern",
     "links": {
@@ -50,8 +50,8 @@
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "name": "Civic Match",
+    "desc": "A full-stack political engagement platform built that aims to connect Boston-area constituents with their representatives in a more citizen-friendly way.",
     "image": "flipkartmern",
     "category": "mern",
     "links": {
@@ -60,8 +60,8 @@
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "name": "Discrete Math Algorithm Calculator",
+    "desc": "A Java-based application to solve complex discrete mathematics problems. Combinatorics, probability theory, and other complex algorithms were utilized.",
     "image": "resumegen",
     "category": "mern",
     "links": {
@@ -340,6 +340,7 @@
     }
   }
 ]
+
 
 
 

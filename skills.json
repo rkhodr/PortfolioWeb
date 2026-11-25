@@ -1,79 +1,74 @@
-
 [
-  {
-    "name": "Java",
-    "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
-  },
-  {
-    "name": "Python",
-    "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
-  },
-  {
-    "name": "PyTorch",
-    "icon": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg"
-  },
-  {
-    "name": "C++",
-    "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
-  },
-  {
-    "name": "MongoDB",
-    "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
-  },
-  {
-    "name": "MySQL",
-    "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
-  },
-  {
-    "name": "GitHub/Git",
-    "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-  },
-  {
-    "name": "Azure",
-    "icon": "https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000"
-  },
-  {
-    "name": "Databricks",
-    "icon": "https://img.icons8.com/?size=100&id=5pJ36OJLzavv&format=png&color=FA5252"
-  },
-  {
-    "name": "XML",
-    "icon": "https://img.icons8.com/?size=100&id=I3W4hAZPJkIJ&format=png&color=000000"
-  },
-  {
-    "name": "ReactJS",
-    "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
-  },
-  {
-    "name": "ExpressJS",
-    "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
-  },
-  {
-    "name": "NodeJS",
-    "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
-  },
-  {
-    "name": "TypeScript",
-    "icon": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
-  },
-  {
-    "name": "TailwindCSS",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
-  },
-  {
-    "name": "HTML",
-    "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
-  },
-  {
-    "name": "CSS",
-    "icon": "https://img.icons8.com/color/48/000000/css3.png"
-  },
-  {
-    "name": "JavaScript",
-    "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
-  },
-  {
-    "name": "Linux",
-    "icon": "https://img.icons8.com/?size=100&id=17842&format=png&color=000000"
-  }
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "PyTorch",
+        "icon": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "GitHub/Git",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Azure",
+        "icon": "https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000"
+    },
+    {
+        "name": "Databricks",
+        "icon": "https://img.icons8.com/?size=100&id=5pJ36OJLzavv&format=png&color=FA5252"
+    },
+    {
+        "name": "XML",
+        "icon": "https://img.icons8.com/?size=100&id=I3W4hAZPJkIJ&format=png&color=000000"
+    },
+    {
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "ExpressJS",
+        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+    },
+    {
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "TypeScript",
+        "icon": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+    },
+    {
+        "name": "HTML",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/?size=100&id=17842&format=png&color=000000"
+    }
 ]

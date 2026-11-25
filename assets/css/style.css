@@ -506,6 +506,11 @@ header .navbar ul li a:hover {
 .skills .container .bar .info i {
   font-size: 4rem;
 }
+.skills .container .bar .info img {
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+}
 .skills .container .bar .info span {
   font-size: 2rem;
   font-weight: 500;
